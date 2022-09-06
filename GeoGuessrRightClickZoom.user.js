@@ -1,6 +1,5 @@
-
 // ==UserScript==
-// @name         GeoGuessr right click zoom v1.1
+// @name         GeoGuessr right click zoom
 // @namespace    GeoGuessr scripts
 // @version      1.1
 // @description  Zoom with right mouse button
