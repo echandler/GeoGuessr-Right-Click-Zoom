@@ -5,6 +5,7 @@
 // @version      1.0
 // @description  Zoom with right mouse button
 // @include      https://www.geoguessr.com/*
+// @downloadURL  https://github.com/echandler/GeoGuessr-Right-Click-Zoom/raw/main/GeoGuessrRightClickZoom.user.js
 // @grant        none
 // @license      GNU
 // ==/UserScript==
