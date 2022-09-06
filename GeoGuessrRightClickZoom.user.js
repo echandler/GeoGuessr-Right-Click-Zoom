@@ -1,8 +1,8 @@
 
 // ==UserScript==
-// @name         GeoGuessr right click zoom v1.0
+// @name         GeoGuessr right click zoom v1.1
 // @namespace    GeoGuessr scripts
-// @version      1.0
+// @version      1.1
 // @description  Zoom with right mouse button
 // @include      https://www.geoguessr.com/*
 // @downloadURL  https://github.com/echandler/GeoGuessr-Right-Click-Zoom/raw/main/GeoGuessrRightClickZoom.user.js
